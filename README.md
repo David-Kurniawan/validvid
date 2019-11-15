@@ -4,7 +4,7 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://doge.mit-license.org)
 
 ## Requirements
-* PHP 7.2 or higher
+* PHP 7.1 or higher
 * Composer for installation
 
 ## Installation
