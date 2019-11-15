@@ -6,7 +6,6 @@ php:
 
 before_script:
   - composer install
-  - ./vendor/bin/phpcs -n --standard=PSR2 src/ tests/
 
 script:
   - ./vendor/bin/phpunit --coverage-text
