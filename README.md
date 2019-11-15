@@ -3,6 +3,16 @@
 [![Build Status](https://img.shields.io/travis/David-Kurniawan/validvid.svg?style=flat-square)](https://travis-ci.org/David-Kurniawan/validvid)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://doge.mit-license.org)
 
+## Requirements
+* PHP 7.2 or higher
+* Composer for installation
+
+## Installation
+
+```sh
+$ composer require david-kurniawan/validvid
+```
+
 ## Usage
 
 ```php
